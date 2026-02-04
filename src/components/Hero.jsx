@@ -86,7 +86,7 @@ export default function Hero() {
             className="flex justify-center md:justify-end"
           >
             <img
-              src="https://images.unsplash.com/photo-1569943316331-0fbeb72294b3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fHZhcGV8ZW58MHx8MHx8fDA%3D"
+              src="https://images.unsplash.com/photo-1594177914682-d408d96e458b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmFwZXxlbnwwfHwwfHx8MA%3D%3D"
               alt="Premium Vape Device"
               className="w-full max-w-sm md:max-w-md object-contain"
             />
